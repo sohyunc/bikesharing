@@ -19,7 +19,7 @@ Below graph shows that males use the bike the most compared to females. We can a
 ### ![Checkout Times by Gender](images/gender_checkout_times.png)
 
 Bikes are being used mostly from 6 AM to 9 AM in the morning and 4 PM to 8 PM in the evening of the weekday.
-### ![Trips_by_Weekday_per_Hour](images/weekda_trips.png)
+### ![Trips_by_Weekday_per_Hour](images/weekday_trips.png)
 
 Both females and males use the bike mostly from 6 AM to 9 AM in the morning and 4 PM to 8 PM in the evening of the weekday with higher usage in males.
 ### ![Trips by Gender](images/trips_by_gender.png)
